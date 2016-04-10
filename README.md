@@ -20,3 +20,7 @@ To allow for image captioning using an RNN(LSTM) model that is attached to the e
 - Finished implementing a naive RNN? Nope
 - Finished importing over a transfer learned LSTM? Nope
 - Finished training the LSTM? Nope
+
+MIT License
+
+Copyright (c) 2016 Ray Zhang
