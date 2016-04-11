@@ -9,7 +9,7 @@ of severity.
 To allow for image captioning using an RNN(LSTM) model that is attached to the end of a CNN.
 
 ## Milestones ##
-- Finished data io? Nope
+- Finished data io? YES
 - Finished preprocessing? Nope
 - Finished implementing a naive net? Nope
 - Finished training the naive net? Nope
@@ -20,6 +20,8 @@ To allow for image captioning using an RNN(LSTM) model that is attached to the e
 - Finished implementing a naive RNN? Nope
 - Finished importing over a transfer learned LSTM? Nope
 - Finished training the LSTM? Nope
+
+Note: No I won't give you the patient data since it's confidential. Please don't ask me for it.
 
 MIT License
 
